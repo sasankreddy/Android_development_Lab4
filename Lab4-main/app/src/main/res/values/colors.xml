@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#4100E0</color>
+    <color name="purple_300">#BB86FC</color>
+    <color name="blue_500">#3F51B5</color>
+    <color name="blue_700">#303F9F</color>
+
+    <array name="dotColors">
+        <item>#F44336</item>
+        <item>#2196F3</item>
+        <item>#4CAF50</item>
+        <item>#FFEB3B</item>
+        <item>#673AB7</item>
+    </array>
+</resources>
